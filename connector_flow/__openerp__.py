@@ -3,6 +3,7 @@
 #
 #    OpenERP, Open Source Management Solution
 #    Copyright (C) 2014 initOS GmbH & Co. KG (<http://www.initos.com>).
+#                  2015 FactorLibre (http://www.factorlibre.com).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -44,7 +45,7 @@ and Camptocamp (connector_file).
 A very brief tutorial can be found at http://blog.initos.com/?p=1220
 """,
     'category': 'Connector',
-    'author': 'initOS GmbH & Co. KG',
+    'author': 'initOS GmbH & Co. KG, FactorLibre',
     'license': 'AGPL-3',
     'website': 'http://www.initos.com',
     'depends': [
