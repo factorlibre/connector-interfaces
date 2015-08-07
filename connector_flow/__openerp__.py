@@ -53,7 +53,7 @@ A very brief tutorial can be found at http://blog.initos.com/?p=1220
         'fix_bug_1316948',
     ],
     'external_dependencies': {
-        'python': ['ftputil'],
+        'python': ['ftputil', 'paramiko'],
     },
     'data': [
         'impexp_task_view.xml',
